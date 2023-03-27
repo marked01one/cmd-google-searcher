@@ -1,0 +1,20 @@
+{
+  "websiteList": {
+    "1": {
+      "name": "Stack Overflow",
+      "url": "stackoverflow.com"
+    },
+    "2": {
+      "name": "Digital Ocean",
+      "url": "www.digitalocean.com"
+    },
+    "3": {
+      "name": "Medium",
+      "url": "medium.com"
+    },
+    "4": {
+      "name": "GitHub",
+      "url": "github.com"
+    }
+  }
+}
