@@ -9,4 +9,4 @@ $ ./search.sh [enter what you want to search here]
 
 The returning result should be something like this:
 
-<img src="./assets/cmd_picture.png" />
+<img src="./assets/cmd_picture.PNG" />
